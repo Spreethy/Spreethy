@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=spreethy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>-->
 
-I'm an undergraduate student in the **Department of Computer Science**, passionate about **Full-Stack Web Development, Software Engineering, and Building Real-World Applications**.
+I'm an graduate student in the **Department of Computer Science**, passionate about **Full-Stack Web Development, Software Engineering, and Building Real-World Applications**.
 
 🔭 **Currently working on:**
 - **Full-Stack Web Development** (Angular, .NET, React)
