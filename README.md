@@ -21,8 +21,5 @@ I have experience in **full-stack web development** through my Software Engineer
 
 ### 🔌 IoT & Embedded Systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT & Embedded Systems" />
-</p>
 
 **ESP32 / ESP32-S3 · Arduino · Embedded C/C++ · Sensor Integration · GPIO · ADC · I2C · UART · BLE · GPS/GNSS · PPG · IMU · Real-Time Sensor Data Processing**
